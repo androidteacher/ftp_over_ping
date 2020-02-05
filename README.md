@@ -1,5 +1,5 @@
 ## About:
-These programs demostrate how an attacker can exfiltrate data using the icmp protocol.  
+This set of programs demostrate how an attacker can exfiltrate data using the icmp protocol.  
 They are designed for use in a cybersecurity classroom.  
 
 ## Programs Included:
