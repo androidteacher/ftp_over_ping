@@ -24,7 +24,7 @@ Example:
 ```
 
 Use CTRL-C to stop listen.sh.  
-(You should see a file called data.dmp which contains the tcpdump output.)
+(You should see a file called data.dmp which contains the tcpdump output on the attacker machine.)
 
 On the **VICTIM** machine  
 Run
