@@ -26,7 +26,8 @@ Example:
 Use CTRL-C to stop listen.sh.  
 (You should see a file called data.dmp which contains the tcpdump output.)
 
-Run  
+On the **VICTIM** machine  
+Run
 ```
 ./rebuild.sh 
 ```
