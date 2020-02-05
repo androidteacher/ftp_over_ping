@@ -6,7 +6,7 @@ They are designed for use in a cybersecurity classroom.
 - exfil.sh: This program sends files **FROM the VICTIM** machine over ping.   
 - listen.sh: This runs the tcpdump command and produces the output file data.dmp.  
 - pyarray.py: This program parses through data.dmp file.  
-- rebuild.sh: This script runs pyarray, produces hexout, and prints the recieved file in plaintext.  
+- rebuild.sh: This script runs pyarray, produces a file called hexout, and prints the recieved file in plaintext.  
 
 ## Directions:
 
